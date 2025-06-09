@@ -212,14 +212,3 @@ Certifique-se de demonstrar todas as operações CRUD e a persistência dos dado
 - **Exibir logs**: `docker compose logs -f`.
 - **Repositório com tudo que é necessário**: Este `README.md`, os Dockerfiles, o `docker-compose.yml` e o código-fonte da aplicação Java.
 
-## Vídeo Demonstrativo (Requisito do Trabalho)
-
-Lembre-se de que o trabalho exige um vídeo demonstrativo que inclua:
-
-- O funcionamento completo da aplicação, desde o funcionamento do APP e a persistência de dados.
-- Execução de todas as operações do CRUD.
-- A persistência no banco de dados após cada operação.
-- Explicação em voz ou legenda clara de cada passo.
-- Boa qualidade visual e sonora (mínimo 740p).
-
-Você pode usar ferramentas como OBS Studio ou Clipchamp para gravar e editar o vídeo.
